@@ -21,7 +21,7 @@ We're going live on **August 30, 2025**.
 
 ## 📸 Preview
 
-!https://your-screenshot-link-if-available.png
+[gotalent.ng](https://68715373f649049a6ad0df91--gotalentng-prelaunch.netlify.app/)
 
 ## 🛠️ Local Setup
 
